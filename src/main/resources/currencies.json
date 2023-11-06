@@ -1,0 +1,9 @@
+{
+  "defaultSupportedCurrency": "RUB",
+  "supportedCurrencies": [
+    "RUB",
+    "BYN",
+    "USD",
+    "EUR"
+  ]
+}
